@@ -3,6 +3,7 @@
 **A simple Spring Boot app to send hello world message to a user**
 
 ## How to Run Application
+#
 
 **Start the application using any of the commands mentioned below**
 
